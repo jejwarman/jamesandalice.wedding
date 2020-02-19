@@ -61,11 +61,12 @@ nav:after {
 	text-align: center;
 	font-family: 'Amatic SC', cursive;
 	padding: 45px 0;
+	color: #539BAD;
 }
 
 h1 {
     font-size: 3em;
-    font-weight: 800;
+    font-weight: 900;
 }
 
 h2 {
